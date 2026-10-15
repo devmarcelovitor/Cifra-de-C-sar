@@ -1,0 +1,5 @@
+cifra
+*.exe
+*.o
+log_execucao.txt
+resultado_criptografia.txt
